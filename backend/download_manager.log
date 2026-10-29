@@ -1,0 +1,262 @@
+[2026-10-25 17:00:28] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 17:00:28] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 17:00:28] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 17:00:28] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 17:00:28] [INFO] History loaded: 0 entries from history.json
+[2026-10-25 17:00:28] [INFO] All modules initialized. Starting API server...
+[2026-10-25 17:00:28] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 17:01:00] [INFO] Queued download #1: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf → downloads\dummy.pdf
+[2026-10-25 17:01:00] [INFO] Download #1 started: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+[2026-10-25 17:01:01] [INFO] Download #1: HTTP status 200
+[2026-10-25 17:01:01] [INFO] Download #1: total=13264 bytes, resume=yes
+[2026-10-25 17:01:01] [INFO] Download #1: transfer complete
+[2026-10-25 17:01:01] [INFO] Download #1 completed: dummy.pdf (13264 bytes)
+[2026-10-25 17:10:50] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 17:10:50] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 17:10:50] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 17:10:50] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 17:10:50] [INFO] History loaded: 0 entries from history.json
+[2026-10-25 17:10:50] [INFO] All modules initialized. Starting API server...
+[2026-10-25 17:10:50] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 17:14:50] [INFO] Queued download #1: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf → downloads\dummy_1.pdf
+[2026-10-25 17:14:50] [INFO] Download #1 started: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+[2026-10-25 17:14:51] [INFO] Download #1: HTTP status 200
+[2026-10-25 17:14:51] [INFO] Download #1: total=13264 bytes, resume=yes
+[2026-10-25 17:14:51] [INFO] Download #1: transfer complete
+[2026-10-25 17:14:51] [INFO] Download #1 completed: dummy.pdf (13264 bytes)
+[2026-10-25 17:28:41] [INFO] Queued download #2: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf → downloads\dummy_2.pdf
+[2026-10-25 17:28:41] [INFO] Download #2 started: https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf
+[2026-10-25 17:28:41] [INFO] Download #2: HTTP status 200
+[2026-10-25 17:28:41] [INFO] Download #2: total=13264 bytes, resume=yes
+[2026-10-25 17:28:41] [INFO] Download #2: transfer complete
+[2026-10-25 17:28:41] [INFO] Download #2 completed: dummy.pdf (13264 bytes)
+[2026-10-25 17:53:14] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 17:53:14] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 17:53:14] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 17:53:14] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 17:53:14] [INFO] History loaded: 0 entries from history.json
+[2026-10-25 17:53:14] [INFO] All modules initialized. Starting API server...
+[2026-10-25 17:53:14] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 18:01:49] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 18:01:49] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 18:01:49] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 18:01:49] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 18:01:49] [INFO] History loaded: 0 entries from history.json
+[2026-10-25 18:01:49] [INFO] All modules initialized. Starting API server...
+[2026-10-25 18:01:49] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 18:15:39] [INFO] Queued download #1: https://www.facebook.com/BeautifulNatureOfficialPage/ → downloads\download
+[2026-10-25 18:15:39] [INFO] Download #1 started: https://www.facebook.com/BeautifulNatureOfficialPage/
+[2026-10-25 18:15:42] [INFO] Download #1: HTTP status 200
+[2026-10-25 18:15:42] [INFO] Download #1: total=-1 bytes, resume=no
+[2026-10-25 18:15:42] [INFO] Download #1: transfer complete
+[2026-10-25 18:15:42] [INFO] Download #1 completed: download (528413 bytes)
+[2026-10-25 18:15:52] [INFO] Added to history: #1 download (completed)
+[2026-10-25 18:15:52] [INFO] Removed task #1 from queue
+[2026-10-25 18:16:03] [INFO] Queued download #2: https://www.facebook.com/BeautifulNatureOfficialPage/ → downloads\download_1
+[2026-10-25 18:16:03] [INFO] Download #2 started: https://www.facebook.com/BeautifulNatureOfficialPage/
+[2026-10-25 18:16:03] [INFO] Download #2: HTTP status 200
+[2026-10-25 18:16:03] [INFO] Download #2: total=-1 bytes, resume=no
+[2026-10-25 18:16:03] [INFO] Download #2: transfer complete
+[2026-10-25 18:16:03] [INFO] Download #2 completed: download (524751 bytes)
+[2026-10-25 18:25:59] [INFO] Queued download #3: https://localhost:5174/photo.jpg → downloads\photo.jpg
+[2026-10-25 18:25:59] [INFO] Download #3 started: https://localhost:5174/photo.jpg
+[2026-10-25 18:25:59] [ERROR] Download #3: Failed to open URL (WinINet error: 12157)
+[2026-10-25 18:37:17] [INFO] Queued download #4: http://localhost:8000/photo.jpg → downloads\photo.jpg
+[2026-10-25 18:37:17] [INFO] Download #4 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:21] [ERROR] Download #4: Failed to open URL (WinINet error: 12029)
+[2026-10-25 18:37:26] [INFO] Retrying download #4: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:26] [INFO] Download #4 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:30] [ERROR] Download #4: Failed to open URL (WinINet error: 12029)
+[2026-10-25 18:37:35] [INFO] Retrying download #4: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:35] [INFO] Download #4 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:38] [INFO] Retrying download #4: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:38] [INFO] Download #4 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:37:39] [ERROR] Download #4: Failed to open URL (WinINet error: 12029)
+[2026-10-25 18:37:39] [INFO] Download #4 cancelled
+[2026-10-25 18:37:41] [INFO] Added to history: #4 photo.jpg (failed)
+[2026-10-25 18:37:41] [INFO] Removed task #4 from queue
+[2026-10-25 18:37:42] [INFO] Added to history: #3 photo.jpg (failed)
+[2026-10-25 18:37:42] [INFO] Removed task #3 from queue
+[2026-10-25 18:40:00] [INFO] Queued download #1: http://localhost:8000/photo.jpg → downloads\photo.jpg
+[2026-10-25 18:40:00] [INFO] Download #1 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:40:05] [ERROR] Download #1: Failed to open URL (WinINet error: 12029)
+[2026-10-25 18:40:09] [INFO] Added to history: #1 photo.jpg (failed)
+[2026-10-25 18:40:09] [INFO] Removed task #1 from queue
+[2026-10-25 18:40:17] [INFO] Queued download #2: http://localhost:8000/photo.jpg → downloads\photo.jpg
+[2026-10-25 18:40:17] [INFO] Download #2 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:40:21] [ERROR] Download #2: Failed to open URL (WinINet error: 12029)
+[2026-10-25 18:43:47] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 18:43:47] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 18:43:47] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 18:43:47] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 18:43:47] [INFO] History loaded: 1 entries from history.json
+[2026-10-25 18:43:47] [INFO] All modules initialized. Starting API server...
+[2026-10-25 18:43:47] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 18:47:16] [INFO] Queued download #1: http://localhost:8000/photo.jpg → downloads\photo.jpg
+[2026-10-25 18:47:16] [INFO] Download #1 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:47:16] [INFO] Download #1: HTTP status 200
+[2026-10-25 18:47:16] [INFO] Download #1: total=64384 bytes, resume=no
+[2026-10-25 18:47:16] [INFO] Download #1: transfer complete
+[2026-10-25 18:47:16] [INFO] Download #1 completed: photo.jpg (64384 bytes)
+[2026-10-25 18:51:06] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 18:51:06] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 18:51:06] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 18:51:06] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 18:51:06] [INFO] History loaded: 1 entries from history.json
+[2026-10-25 18:51:06] [INFO] All modules initialized. Starting API server...
+[2026-10-25 18:51:06] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 18:51:41] [INFO] Queued download #2: http://localhost:8000/photo.jpg → downloads\photo_1.jpg
+[2026-10-25 18:51:41] [INFO] Download #2 started: http://localhost:8000/photo.jpg
+[2026-10-25 18:51:41] [INFO] Download #2: HTTP status 200
+[2026-10-25 18:51:41] [INFO] Download #2: total=64384 bytes, resume=no
+[2026-10-25 18:51:41] [INFO] Download #2: transfer complete
+[2026-10-25 18:51:41] [INFO] Download #2 completed: photo.jpg (64384 bytes)
+[2026-10-25 18:53:13] [INFO] Queued download #3: https://www.google.com/imgres?q=nature%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fbeautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-143998386.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fbeautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-image143998386&docid=VrhVBRpgI1U7iM&tbnid=bFO5GffZoGmD-M&vet=12ahUKEwirxZWimdWXAxWdbWwGHUSWPLoQnPAOegUIkAEQAA..i&w=600&h=900&hcb=2&ved=2ahUKEwirxZWimdWXAxWdbWwGHUSWPLoQnPAOegUIkAEQAA → downloads\imgres
+[2026-10-25 18:53:13] [INFO] Download #3 started: https://www.google.com/imgres?q=nature%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fbeautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-143998386.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fbeautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-image143998386&docid=VrhVBRpgI1U7iM&tbnid=bFO5GffZoGmD-M&vet=12ahUKEwirxZWimdWXAxWdbWwGHUSWPLoQnPAOegUIkAEQAA..i&w=600&h=900&hcb=2&ved=2ahUKEwirxZWimdWXAxWdbWwGHUSWPLoQnPAOegUIkAEQAA
+[2026-10-25 18:53:13] [INFO] Download #3: HTTP status 200
+[2026-10-25 18:53:13] [INFO] Download #3: total=-1 bytes, resume=no
+[2026-10-25 18:53:13] [INFO] Download #3: transfer complete
+[2026-10-25 18:53:13] [INFO] Download #3 completed: imgres (32949 bytes)
+[2026-10-25 18:54:43] [INFO] Queued download #4: https://www.pinterest.com/pin/sunlight-through-trees-and-flowers--774124930091848/ → downloads\download_2
+[2026-10-25 18:54:43] [INFO] Download #4 started: https://www.pinterest.com/pin/sunlight-through-trees-and-flowers--774124930091848/
+[2026-10-25 18:54:44] [INFO] Download #4: HTTP status 200
+[2026-10-25 18:54:44] [INFO] Download #4: total=-1 bytes, resume=no
+[2026-10-25 18:54:44] [INFO] Download #4: transfer complete
+[2026-10-25 18:54:44] [INFO] Download #4 completed: download (1670755 bytes)
+[2026-10-25 19:01:44] [INFO] Queued download #5: https://www.pexels.com/photo/serene-autumn-landscape-in-kangan-29141452/ → downloads\download
+[2026-10-25 19:01:44] [INFO] Download #5 started: https://www.pexels.com/photo/serene-autumn-landscape-in-kangan-29141452/
+[2026-10-25 19:01:46] [INFO] Download #5: HTTP status 200
+[2026-10-25 19:01:46] [INFO] Download #5: total=-1 bytes, resume=no
+[2026-10-25 19:01:47] [INFO] Download #5: transfer complete
+[2026-10-25 19:01:47] [INFO] Download #5 completed: download (404832 bytes)
+[2026-10-25 19:03:03] [INFO] Queued download #6: https://www.google.com/imgres?q=nature%20wallpaper%20download&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F049%2F855%2F347%2Fsmall%2Fnature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fnature-wallpaper&docid=YnOJZpMFUasouM&tbnid=eitVzQhXF5wxLM&vet=12ahUKEwi1vLjLo9WXAxV3kOEIHUt4BiQQnPAOegUIyQEQAA..i&w=625&h=350&hcb=2&ved=2ahUKEwi1vLjLo9WXAxV3kOEIHUt4BiQQnPAOegUIyQEQAA → downloads\imgres_1
+[2026-10-25 19:03:03] [INFO] Download #6 started: https://www.google.com/imgres?q=nature%20wallpaper%20download&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F049%2F855%2F347%2Fsmall%2Fnature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fnature-wallpaper&docid=YnOJZpMFUasouM&tbnid=eitVzQhXF5wxLM&vet=12ahUKEwi1vLjLo9WXAxV3kOEIHUt4BiQQnPAOegUIyQEQAA..i&w=625&h=350&hcb=2&ved=2ahUKEwi1vLjLo9WXAxV3kOEIHUt4BiQQnPAOegUIyQEQAA
+[2026-10-25 19:03:03] [INFO] Download #6: HTTP status 200
+[2026-10-25 19:03:03] [INFO] Download #6: total=-1 bytes, resume=no
+[2026-10-25 19:03:03] [INFO] Download #6: transfer complete
+[2026-10-25 19:03:03] [INFO] Download #6 completed: imgres (32148 bytes)
+[2026-10-25 19:08:01] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 19:08:01] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 19:08:01] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 19:08:01] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 19:08:01] [INFO] History loaded: 1 entries from history.json
+[2026-10-25 19:08:01] [INFO] All modules initialized. Starting API server...
+[2026-10-25 19:08:01] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 19:17:22] [INFO] Queued download #1: http://localhost:8000/study → downloads\study
+[2026-10-25 19:17:22] [INFO] Download #1 started: http://localhost:8000/study
+[2026-10-25 19:17:23] [INFO] Download #1: HTTP status 404
+[2026-10-25 19:17:23] [ERROR] Download #1: HTTP 404
+[2026-10-25 19:17:26] [INFO] Retrying download #1: http://localhost:8000/study
+[2026-10-25 19:17:26] [INFO] Download #1 started: http://localhost:8000/study
+[2026-10-25 19:17:26] [INFO] Download #1: HTTP status 404
+[2026-10-25 19:17:26] [ERROR] Download #1: HTTP 404
+[2026-10-25 19:17:28] [INFO] Added to history: #1 study (failed)
+[2026-10-25 19:17:28] [INFO] Removed task #1 from queue
+[2026-10-25 19:20:09] [INFO] Queued download #2: http://localhost:8000/photo2 → downloads\photo2
+[2026-10-25 19:20:09] [INFO] Download #2 started: http://localhost:8000/photo2
+[2026-10-25 19:20:09] [INFO] Download #2: HTTP status 404
+[2026-10-25 19:20:09] [ERROR] Download #2: HTTP 404
+[2026-10-25 19:20:15] [INFO] Added to history: #2 photo2 (failed)
+[2026-10-25 19:20:15] [INFO] Removed task #2 from queue
+[2026-10-25 19:22:20] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-25 19:22:20] [INFO] File manager initialized. Download dir: downloads
+[2026-10-25 19:22:20] [INFO] Download engine initialized (WinINet session open)
+[2026-10-25 19:22:20] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-25 19:22:20] [INFO] History loaded: 3 entries from history.json
+[2026-10-25 19:22:20] [INFO] All modules initialized. Starting API server...
+[2026-10-25 19:22:20] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-25 19:22:55] [INFO] Queued download #3: http://localhost:8000/photo2 → downloads\photo2
+[2026-10-25 19:22:55] [INFO] Download #3 started: http://localhost:8000/photo2
+[2026-10-25 19:22:55] [INFO] Download #3: HTTP status 404
+[2026-10-25 19:22:55] [ERROR] Download #3: HTTP 404
+[2026-10-25 19:23:06] [INFO] Queued download #4: http://localhost:8000/photo.jpg → downloads\photo_2.jpg
+[2026-10-25 19:23:06] [INFO] Download #4 started: http://localhost:8000/photo.jpg
+[2026-10-25 19:23:06] [INFO] Download #4: HTTP status 200
+[2026-10-25 19:23:06] [INFO] Download #4: total=64384 bytes, resume=no
+[2026-10-25 19:23:06] [INFO] Download #4: transfer complete
+[2026-10-25 19:23:06] [INFO] Download #4 completed: photo.jpg (64384 bytes)
+[2026-10-25 19:24:15] [INFO] Queued download #5: http://localhost:8000/image.jpg → downloads\image_1.jpg
+[2026-10-25 19:24:15] [INFO] Download #5 started: http://localhost:8000/image.jpg
+[2026-10-25 19:24:15] [INFO] Download #5: HTTP status 404
+[2026-10-25 19:24:15] [ERROR] Download #5: HTTP 404
+[2026-10-25 19:26:08] [INFO] Queued download #6: http://localhost:8000/image.jpg → downloads\image_1.jpg
+[2026-10-25 19:26:08] [INFO] Download #6 started: http://localhost:8000/image.jpg
+[2026-10-25 19:26:08] [INFO] Download #6: HTTP status 404
+[2026-10-25 19:26:08] [ERROR] Download #6: HTTP 404
+[2026-10-25 19:26:13] [INFO] Shutdown signal received...
+[2026-10-26 23:36:57] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-26 23:36:57] [INFO] File manager initialized. Download dir: downloads
+[2026-10-26 23:36:57] [INFO] Download engine initialized (WinINet session open)
+[2026-10-26 23:36:58] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-26 23:36:58] [INFO] History loaded: 3 entries from history.json
+[2026-10-26 23:36:58] [INFO] All modules initialized. Starting API server...
+[2026-10-26 23:36:58] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-26 23:37:44] [INFO] Added to history: #3 photo2 (failed)
+[2026-10-26 23:37:44] [INFO] Removed task #3 from queue
+[2026-10-26 23:37:45] [INFO] Added to history: #6 image.jpg (failed)
+[2026-10-26 23:37:45] [INFO] Removed task #6 from queue
+[2026-10-26 23:37:46] [INFO] Added to history: #5 image.jpg (failed)
+[2026-10-26 23:37:46] [INFO] Removed task #5 from queue
+[2026-10-26 23:39:34] [INFO] Queued download #7: https://wallpapercave.com/wp/wp9343692.jpg → downloads\wp9343692.jpg
+[2026-10-26 23:39:34] [INFO] Download #7 started: https://wallpapercave.com/wp/wp9343692.jpg
+[2026-10-26 23:39:35] [INFO] Download #7: HTTP status 200
+[2026-10-26 23:39:35] [INFO] Download #7: total=225623 bytes, resume=yes
+[2026-10-26 23:39:35] [INFO] Download #7: transfer complete
+[2026-10-26 23:39:35] [INFO] Download #7 completed: wp9343692.jpg (225623 bytes)
+[2026-10-26 23:40:09] [INFO] Added to history: #7 wp9343692.jpg (completed)
+[2026-10-26 23:40:09] [INFO] Removed task #7 from queue
+[2026-10-26 23:40:11] [INFO] Added to history: #4 photo.jpg (completed)
+[2026-10-26 23:40:11] [INFO] Removed task #4 from queue
+[2026-10-26 23:41:49] [INFO] Queued download #8: https://www.pinterest.com/pin/rs-200-bike-in-kerala--988751293180987419/ → downloads\download_1
+[2026-10-26 23:41:49] [INFO] Download #8 started: https://www.pinterest.com/pin/rs-200-bike-in-kerala--988751293180987419/
+[2026-10-26 23:41:50] [INFO] Download #8: HTTP status 200
+[2026-10-26 23:41:50] [INFO] Download #8: total=-1 bytes, resume=no
+[2026-10-26 23:41:50] [INFO] Download #8: transfer complete
+[2026-10-26 23:41:50] [INFO] Download #8 completed: download (1682332 bytes)
+[2026-10-26 23:42:25] [INFO] Added to history: #8 download (completed)
+[2026-10-26 23:42:25] [INFO] Removed task #8 from queue
+[2026-10-26 23:42:49] [INFO] Queued download #9: https://wallpaperaccess.com/full/226908.jpg → downloads\226908.jpg
+[2026-10-26 23:42:49] [INFO] Download #9 started: https://wallpaperaccess.com/full/226908.jpg
+[2026-10-26 23:42:50] [INFO] Download #9: HTTP status 200
+[2026-10-26 23:42:50] [INFO] Download #9: total=1646659 bytes, resume=yes
+[2026-10-26 23:42:51] [INFO] Download #9: transfer complete
+[2026-10-26 23:42:51] [INFO] Download #9 completed: 226908.jpg (1646659 bytes)
+[2026-10-26 23:43:24] [INFO] Added to history: #9 226908.jpg (completed)
+[2026-10-26 23:43:24] [INFO] Removed task #9 from queue
+[2026-10-26 23:44:09] [INFO] Queued download #10: https://youtube.com/shorts/OvjzVuo1i6Y?si=1izzImk9GqJsm2VN → downloads\OvjzVuo1i6Y
+[2026-10-26 23:44:09] [INFO] Download #10 started: https://youtube.com/shorts/OvjzVuo1i6Y?si=1izzImk9GqJsm2VN
+[2026-10-26 23:44:10] [INFO] Download #10: HTTP status 200
+[2026-10-26 23:44:10] [INFO] Download #10: total=-1 bytes, resume=no
+[2026-10-26 23:44:11] [INFO] Download #10: transfer complete
+[2026-10-26 23:44:11] [INFO] Download #10 completed: OvjzVuo1i6Y (1466308 bytes)
+[2026-10-26 23:45:55] [INFO] Added to history: #10 OvjzVuo1i6Y (completed)
+[2026-10-26 23:45:55] [INFO] Removed task #10 from queue
+[2026-10-26 23:51:03] [INFO] Shutdown signal received...
+[2026-10-29 14:18:34] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-29 14:18:34] [INFO] File manager initialized. Download dir: downloads
+[2026-10-29 14:18:34] [INFO] Download engine initialized (WinINet session open)
+[2026-10-29 14:18:34] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-29 14:18:34] [INFO] History loaded: 11 entries from history.json
+[2026-10-29 14:18:34] [INFO] All modules initialized. Starting API server...
+[2026-10-29 14:18:34] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-29 14:28:19] [INFO] Shutdown signal received...
+[2026-10-29 14:35:27] [INFO] Logger initialized. Log file: download_manager.log
+[2026-10-29 14:35:27] [INFO] File manager initialized. Download dir: downloads
+[2026-10-29 14:35:27] [INFO] Download engine initialized (WinINet session open)
+[2026-10-29 14:35:27] [INFO] Download queue initialized (max concurrent: 3)
+[2026-10-29 14:35:27] [INFO] History loaded: 11 entries from history.json
+[2026-10-29 14:35:28] [INFO] All modules initialized. Starting API server...
+[2026-10-29 14:35:28] [INFO] API server listening on http://127.0.0.1:8080
+[2026-10-29 14:36:46] [INFO] Queued download #1: https://www.google.com/imgres?q=bike%20images&imgurl=https%3A%2F%2Fwallpapercat.com%2Fw%2Ffull%2Fe%2Fe%2Fa%2F4613-2560x1704-desktop-hd-bike-wallpaper-image.jpg&imgrefurl=https%3A%2F%2Fwallpapercat.com%2Fbike-wallpapers&docid=O1mOID-kMVW6iM&tbnid=wsdz2PqlptrsYM&vet=12ahUKEwjwi43e7t6XAxWukeEIHRtjCZoQnPAOegQIVxAA..i&w=2560&h=1704&hcb=2&ved=2ahUKEwjwi43e7t6XAxWukeEIHRtjCZoQnPAOegQIVxAA → downloads\imgres_2
+[2026-10-29 14:36:46] [INFO] Download #1 started: https://www.google.com/imgres?q=bike%20images&imgurl=https%3A%2F%2Fwallpapercat.com%2Fw%2Ffull%2Fe%2Fe%2Fa%2F4613-2560x1704-desktop-hd-bike-wallpaper-image.jpg&imgrefurl=https%3A%2F%2Fwallpapercat.com%2Fbike-wallpapers&docid=O1mOID-kMVW6iM&tbnid=wsdz2PqlptrsYM&vet=12ahUKEwjwi43e7t6XAxWukeEIHRtjCZoQnPAOegQIVxAA..i&w=2560&h=1704&hcb=2&ved=2ahUKEwjwi43e7t6XAxWukeEIHRtjCZoQnPAOegQIVxAA
+[2026-10-29 14:36:48] [INFO] Download #1: HTTP status 200
+[2026-10-29 14:36:48] [INFO] Download #1: total=-1 bytes, resume=no
+[2026-10-29 14:36:48] [INFO] Download #1: transfer complete
+[2026-10-29 14:36:48] [INFO] Download #1 completed: imgres (31518 bytes)
+[2026-10-29 14:39:03] [INFO] Queued download #2: https://www.google.com/imgres?q=bike%20images%20download&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F056%2F163%2F817%2Fsmall%2Fsport-motorcycle-parked-on-asphalt-road-with-mountain-view-and-fog-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fmotorcycle-wallpaper&docid=7FZqKbC7U6hkbM&tbnid=mM_yvUayIqAPYM&vet=12ahUKEwi4ouCy8N6XAxUZiuEIHbSaKUYQnPAOegUItgEQAA..i&w=525&h=350&hcb=2&ved=2ahUKEwi4ouCy8N6XAxUZiuEIHbSaKUYQnPAOegUItgEQAA → downloads\imgres_3
+[2026-10-29 14:39:03] [INFO] Download #2 started: https://www.google.com/imgres?q=bike%20images%20download&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F056%2F163%2F817%2Fsmall%2Fsport-motorcycle-parked-on-asphalt-road-with-mountain-view-and-fog-photo.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fmotorcycle-wallpaper&docid=7FZqKbC7U6hkbM&tbnid=mM_yvUayIqAPYM&vet=12ahUKEwi4ouCy8N6XAxUZiuEIHbSaKUYQnPAOegUItgEQAA..i&w=525&h=350&hcb=2&ved=2ahUKEwi4ouCy8N6XAxUZiuEIHbSaKUYQnPAOegUItgEQAA
+[2026-10-29 14:39:04] [INFO] Download #2: HTTP status 200
+[2026-10-29 14:39:04] [INFO] Download #2: total=-1 bytes, resume=no
+[2026-10-29 14:39:04] [INFO] Download #2: transfer complete
+[2026-10-29 14:39:04] [INFO] Download #2 completed: imgres (32072 bytes)
+[2026-10-29 14:41:56] [INFO] Shutdown signal received...
